@@ -7,18 +7,14 @@ import android.content.SharedPreferences;
 import android.net.Uri;
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
-import android.support.design.widget.Snackbar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.text.InputType;
-import android.text.method.LinkMovementMethod;
-import android.text.util.Linkify;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.EditText;
-import android.widget.TextView;
 
 import br.tiagohm.markdownview.MarkdownView;
 import br.tiagohm.markdownview.css.styles.Github;
@@ -96,7 +92,7 @@ public class mainScreen extends AppCompatActivity {
             }
         });
 
-        Uri number = Uri.parse("tel:0800559009");
+        Uri number = Uri.parse("tel:01970800559009");
         final Intent callIntent = new Intent(Intent.ACTION_DIAL, number);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
