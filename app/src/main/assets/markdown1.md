@@ -1,6 +1,6 @@
 # Welcome to the NZ benefit
 
-** New: The phone button will always try to call anonymously. Do get this changed manually with your phone provider if you can **
+**New: The phone button will always try to call anonymously. Do get this changed manually with your phone provider if you can**
 
 ## Basic overview 
 Welcome and good on you for seeking assistance. No matter what you feel, have been told, or experience. it's vital that you've sought and got support for your situation. This is a no frills guide to what myself and others have learned while on the benefit.
