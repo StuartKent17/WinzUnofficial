@@ -1,19 +1,9 @@
 # Welcome to the NZ benefit
 
-
-
-## Have your Say
-Petition - Urgent wide-reaching Work and Income review
-
-[Sign Peition
-](https://www.parliament.nz/en/pb/petitions/document/PET_76539/petition-of-stuart-kent-that-the-house-of-representatives)
-
-Please send suggestions and improvements to: [stuart@stuartkent.co.nz](Stuart)
-
+** New: The phone button will always try to call anonymously. Do get this changed manually with your phone provider if you can **
 
 ## Basic overview 
 Welcome and good on you for seeking assistance. No matter what you feel, have been told, or experience. it's vital that you've sought and got support for your situation. This is a no frills guide to what myself and others have learned while on the benefit.
-
 
 There are two main benefits: 
 
@@ -35,6 +25,8 @@ There is a form for everything, so download an app for filling out forms, just i
 
 Don't undersell your needs while you are on the benefit, and find multiple supports. 
 
+Do not rush getting better, getting support. When in doubt slow down, and focus on what's important.
+
 
 [Mental Health Helplines](https://www.mentalhealth.org.nz/get-help/in-crisis/helplines/)
 
@@ -46,7 +38,27 @@ If you have time, search the WINZ website with google, it has a bunch of informa
 You can skip the automated prompts by repeatedly pressing zero. Try to not to abuse this, but you will have days where you will not want to do their dance. You do NOT have to give them your client number to get information, **this is especially important to withold if you are asking questions about potential changes to your living situation or relationship**. 
 
 
+* To hide your Caller-ID from all calls dial **\*31**  to re-enable Caller-ID dial **Dial #31**
+* To hide your number for a single call dial or add **\*67** or **0197** before the number.
+
+*It's best to contact your provider directly to ensure it's been turned off.*
+
+* You can ask to see and correct personal information WINZ holds about you by asking when you call. 
+
+Caller-ID info from [Vodafone Website](http://help.vodafone.co.nz/app/answers/detail/a_id/28155/~/vodafone-one-business%3A-hide-or-show-your-caller-id)
+
 [Work and income search page](https://www.workandincome.govt.nz/search?output=xml_no_dtd&proxystylesheet=workandincome&getfields=description&client=workandincome&site=workandincome&q=&Submit=)
+
+
+## Financial, debts and other
+Make sure you get a payment card early, as you can use the last of your money to pay an unexpected cost, then get food assistance.
+* Do make sure you get budgeting and finance support early. 
+* If the person that is helping you, makes you feel bad or abuses you, find another service ASAP. 
+* If you are in a small area where this isn't a possibility, googling your problem then adding "Reddit" on the end, will find you lots of people's advice. 
+
+[Example result from "Cooking while depressed reddit"
+](https://www.reddit.com/r/EatCheapAndHealthy/comments/606bsu/cheap_healthy_easy_meals_to_make_when_youre/)
+
 
 
 ## Working while on the benefit 
@@ -121,6 +133,4 @@ WINZ should be there to support kiwis when they fall on hard times. Instead peop
 * Join the https://www.facebook.com/WeAreBeneficiaries/ page
 * Talk with friends and family about your struggles. 
 * Seek out and help support the many community agencies
-
-
 
